@@ -51,7 +51,7 @@ function dunzo() {
     clear
     echo
     # chafa --symbols solid+space -s 75x35 ~/Desktop/misc/koku-logo.png
-    chafa --symbols solid+space -s 125 ~/Desktop/misc/koku-cheers.png
+    chafa --symbols solid+space -s 125 ~/Desktop/misc/koku-cheers.png`
     echo
     sleep 5
     clear
